@@ -34,7 +34,12 @@ This Java project is useful because it shows the beginning stages of what can be
 has detailed object classes with comprehensive comments for the user to read. The UML diagram conveys an understanding of where the project is going and what its end goals hope to achieve.
 
 ### How can I use it?
-* In order to run this Poised Java program, you will need to firstly install the Java Development Kit (JDK) onto your computer's operating system (OS):
+* Firstly, you need to clone this repository with the Task Manager program and related text files to a local repository on your computer, so that you can access and run the program.
+If you need help, follow the instructions as set out github help webpage: 
+
+  * https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+* In order to run this Poised Java program, you will then need to install the Java Development Kit (JDK) onto your computer's operating system (OS):
 
   * https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_HowTo.html#jdk-install   - Use this link as a guide to downloading and installing the JDK.
 
